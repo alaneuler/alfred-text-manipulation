@@ -9,5 +9,4 @@ Usage is simple:
    - Control + Option + u for uppercasing
 
 ## Demo
-![ezgif-5-0e6c542734](https://user-images.githubusercontent.com/8054939/206186188-260ceb1c-1a90-4f7b-873f-f456ab2cae56.gif)
-
+![ezgif-5-c59e49612e](https://user-images.githubusercontent.com/8054939/206187979-bf607c9d-3333-40b6-83f4-5a5682ca25e2.gif)
