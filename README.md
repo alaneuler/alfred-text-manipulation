@@ -2,7 +2,7 @@
 
 This is a simple Alfred workflow for **capitalizing** or **uppercasing** selected text globally (in any application).
 
-## Install
+## Installation
 Download the 'Text Manipulation.alfredworkflow' and double click it to install.
 
 ## Usage
