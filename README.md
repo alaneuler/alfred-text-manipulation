@@ -1,6 +1,6 @@
 # Alfred Text Manipulation Workflow
 
-This is a simple Alfred workflow for **capitalizing** or **uppercasing** selected text globally (in any application).
+This is a simple Alfred workflow for **capitalizing** or **uppercasing** selected text globally in macOS (any application that has editable text field).
 
 ## Installation
 Download the 'Text Manipulation.alfredworkflow' and double click it to install.
